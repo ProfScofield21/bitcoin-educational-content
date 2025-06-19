@@ -128,13 +128,13 @@ _(Say, Cobden, Smith, Chevalier, Dunoyer, Destutt de Tracy)_
 
 Le Journal des Économistes lui demande alors de nouveaux articles et plusieurs membres de la Société d'économie politique, notamment Horace Say, le fils de Jean-Baptiste Say et Michel Chevalier, professeur renommé, lui adressent leurs félicitations, en l'engageant à poursuivre avec eux l'œuvre de diffusion des vérités économiques. C’est le début d’une nouvelle vie, à Paris.
 
-Il publie d'abord la première série des Sophismes économiques, dans lesquels il s’attaque aux protectionnistes avec une verve pleine d'audace et d’ironie. A Paris, il commence même un cours d'économie politique dans une salle privée, suivi avec empressement par l'élite étudiante.
+Il publie d'abord la première série des Sophismes économiques, dans lesquels il s’attaque aux protectionnistes avec une verve pleine d'audace et d’ironie. À Paris, il commence même un cours d'économie politique dans une salle privée, suivi avec empressement par l'élite étudiante.
 
 ![image](assets/en/011.webp)
 
 L’année suivante, il créé en France l’« Association pour le libre-échange », et se jette dans le combat contre le protectionnisme en France. Il lève des fonds, crée une revue hebdomadaire et donne des conférences dans tout le pays.
 
-Une première réunion a lieu à Bordeaux, le 23 février 1846, dans laquelle l'Association bordelaise pour la liberté des échanges est constituée. Bientôt le mouvement se propage dans toutes la France. A Paris, un premier noyau est formé parmi les membres de la Société des Économistes, auxquels s'adjoignent des députés, des industriels et des négociants. Des groupes importants se forment aussi à Marseille, à Lyon et au Havre.
+Une première réunion a lieu à Bordeaux, le 23 février 1846, dans laquelle l'Association bordelaise pour la liberté des échanges est constituée. Bientôt le mouvement se propage dans toutes la France. À Paris, un premier noyau est formé parmi les membres de la Société des Économistes, auxquels s'adjoignent des députés, des industriels et des négociants. Des groupes importants se forment aussi à Marseille, à Lyon et au Havre.
 
 ![image](assets/en/005.webp)
 
@@ -160,7 +160,7 @@ Il meurt à Rome en 1850, des suites d’une tuberculose. Il est enterré à l�
 
 :::video id=db69aa73-75a9-44af-a77b-eceb3bc185f3:::
 
-En économie Bastiat a toujours témoigné de sa dette envers Adam Smith et Jean-Baptiste Say. A 26 ans, il écrit à l’un de ses amis « je n’ai jamais lu sur ces matières que ces quatre ouvrages, Smith, Say, Destutt, et le Censeur».
+En économie Bastiat a toujours témoigné de sa dette envers Adam Smith et Jean-Baptiste Say. À 26 ans, il écrit à l’un de ses amis « je n’ai jamais lu sur ces matières que ces quatre ouvrages, Smith, Say, Destutt, et le Censeur».
 
 ![image](assets/en/014.webp)
 
@@ -178,7 +178,7 @@ Adam Smith s’intéresse à la prospérité, non comme une fin en soi mais comm
 
 La grande nouveauté des économistes modernes, à l’aube du XVIIIe siècle, est qu’ils s’intéressent à chaque individu avec la volonté de lui rendre sa capacité d’action tout en réfléchissant à la manière de contenir les passions et les conflits. L’homme veut naturellement améliorer son sort et celui de ses proches par l’échange de biens et de services.
 
-Ce que montre Adam Smith, c’est qu’on ne peut servir son propre intérêt qu’en servant l’intérêt des autres
+Ce que montre Adam Smith, c’est qu’on ne peut servir son propre intérêt qu’en servant l’intérêt des autres.
 
 > Donnez-moi ce dont j'ai besoin, et vous aurez de moi ce dont vous avez besoin vous-mêmes. (…) Ce n'est pas de la bienveillance du boucher, du marchand de bière ou du boulanger, que nous attendons notre dîner, mais bien du soin qu'ils apportent à leurs intérêts.
 
@@ -241,13 +241,13 @@ En effet, son Traité d'économie politique condamnait le protectionnisme et l'e
 
 ![image](assets/en/022.webp)
 
-Destutt de Tracy, philosophe et économiste, fut le chef de file de l'école dite des « Idéologues », qui rassemblait des gens comme Cabanis, Condorcet, Constant, Daunou, Say et Germaine de Staël. Ils sont les héritiers des Physiocrates et les disciples directs de Turgot
+Destutt de Tracy, philosophe et économiste, fut le chef de file de l'école dite des « Idéologues », qui rassemblait des gens comme Cabanis, Condorcet, Constant, Daunou, Say et Germaine de Staël. Ils sont les héritiers des Physiocrates et les disciples directs de Turgot.
 
 ![image](assets/en/023.webp)
 
 ![image](assets/en/024.webp)
 
-Par idéologie Tracy entendait simplement la science qui a pour objet l'étude des idées, de leur origine, de leurs lois, de leur rapport avec le langage, c’est-à-dire, en termes plus contemporains, l’épistémologie. Le terme « idéologie » n’a pas la connotation péjorative que lui conférera Marx par la suite pour jeter le discrédit sur les économistes du « laissez-faire ». La revue du mouvement des idéologues s’appelait La Décade philosophique et littéraire
+Par idéologie Tracy entendait simplement la science qui a pour objet l'étude des idées, de leur origine, de leurs lois, de leur rapport avec le langage, c’est-à-dire, en termes plus contemporains, l’épistémologie. Le terme « idéologie » n’a pas la connotation péjorative que lui conférera Marx par la suite pour jeter le discrédit sur les économistes du « laissez-faire ». La revue du mouvement des idéologues s’appelait La Décade philosophique et littéraire.
 
 ![image](assets/en/025.webp)
 
@@ -289,7 +289,7 @@ Pour Comte et Dunoyer, la spoliation, c'est-à-dire toutes les formes de violenc
 
 Si Frédéric Bastiat doit sa formation économique à Smith, Destutt de Tracy et Say, il doit sa formation politique aux leaders du journal Le Censeur, Charles Comte et Charles Dunoyer.
 
-Cette revue (1814-1819), rebaptisée Le Censeur européen après les Cent Jours, diffusera les idées libérales qui triomphèrent en 1830 avec l’insurrection des 3 Glorieuses et l’arrivée au pouvoir du duc d’Orléans, Louis-Philippe 1er
+Cette revue (1814-1819), rebaptisée Le Censeur européen après les Cent Jours, diffusera les idées libérales qui triomphèrent en 1830 avec l’insurrection des 3 Glorieuses et l’arrivée au pouvoir du duc d’Orléans, Louis-Philippe 1er.
 
 ![image](assets/en/031.webp)
 
@@ -314,7 +314,7 @@ Cette nouvelle théorie sociale contient l’un des éléments qui deviendra la 
 
 Elle prend comme point de départ l'homme qui agit en vue de subvenir à ses besoins et désirs. Du moment qu'on crée, c’est-à-dire qu'on augmente l'utilité des choses, qu’on augmente leur valeur, on exerce une industrie. Ici un industriel n’est pas un patron d’industrie, comme pourrait le laisser penser la langue actuelle, mais un producteur, quel que soit le domaine dans lequel il exerce son métier. C’est pourquoi leur théorie s’appelle l'industrialisme. Elle pose que l'objectif de la société est la création d'utilité au sens large, c'est-à-dire des biens et des services utiles à l'homme.
 
-Sur ce point, l'homme a le choix entre deux alternatives fondamentales : il peut piller la richesse produite par d'autres ou il peut travailler pour produire lui-même des richesses Dans toute société, on peut clairement distinguer ceux qui vivent du la spoliation, de ceux qui vivent de la production. Sous l'Ancien Régime, la noblesse, s'attaquait directement aux plus industrieux pour vivre d’une nouvelle forme de tribut : l'impôt. A la noblesse rapace a succédé les hordes de fonctionnaires-bureaucrates, non moins rapaces.
+Sur ce point, l'homme a le choix entre deux alternatives fondamentales : il peut piller la richesse produite par d'autres ou il peut travailler pour produire lui-même des richesses. Dans toute société, on peut clairement distinguer ceux qui vivent de la spoliation, de ceux qui vivent de la production. Sous l'Ancien Régime, la noblesse, s'attaquait directement aux plus industrieux pour vivre d’une nouvelle forme de tribut : l'impôt. À la noblesse rapace a succédé les hordes de fonctionnaires-bureaucrates, non moins rapaces.
 
 ![image](assets/en/035.webp)
 
@@ -402,45 +402,45 @@ La question du libre-échange continue de se poser aujourd’hui. Les manuels de
 
 :::video id=499239ae-df43-489e-8d1f-bf3ea01e4e6b:::
 
-Frédéric Bastiat, qui s'est exprimé dans les années 1840, est l'héritier d'une génération de philosophes des Lumières qui se sont battus contre la censure et pour la liberté de débattre. Pensons ici à Montesquieu, Diderot Voltaire, Condorcet mais aussi à Rousseau .
+Frédéric Bastiat, qui s'est exprimé dans les années 1840, est l'héritier d'une génération de philosophes des Lumières qui se sont battus contre la censure et pour la liberté de débattre. Pensons ici à Montesquieu, Diderot, Voltaire, Condorcet mais aussi à Rousseau.
 
 Pour eux, l'idée était simple : plus on laisse les idées s'exprimer, plus la vérité progresse et plus les erreurs se réfutent facilement. La science progresse d'ailleurs toujours de cette manière.
 
 ![image](assets/en/046.webp)
 _(Montesquieu, Diedrot, Voltaire, Condorcet, Rousseau)_
 
-En revanche, peu ont compris que ce qui était vrai pour les idées, l'était également pour les biens et les services. La liberté d'échanger avec autru i a en effet deux vertus, celle d'être efficace et celle de conduire à une plus juste répartition. Non seulement Rousseau ne l’a pas compris mais il a combattu cette liberté au nom d’une fausse idée de la loi et du droit. L’une des sources majeures du socialisme, note Bastiat, c'est l'opinion de Rousseau selon laquelle l’ordre social tout entier découle de la loi.
+En revanche, peu ont compris que ce qui était vrai pour les idées, l'était également pour les biens et les services. La liberté d'échanger avec autrui a en effet deux vertus, celle d'être efficace et celle de conduire à une plus juste répartition. Non seulement Rousseau ne l’a pas compris mais il a combattu cette liberté au nom d’une fausse idée de la loi et du droit. L’une des sources majeures du socialisme, note Bastiat, c'est l'opinion de Rousseau selon laquelle l’ordre social tout entier découle de la loi.
 
-Bastiat considère en effet Rousseau comme le véritable précurseur du socialisme et du collectivisme. On trouve chez l’auteur du Contrat social une phrase qui résume assez bien sa philosophie : : « nous ne commençons à devenir hommes qu’après avoir été citoyens ».
+Bastiat considère en effet Rousseau comme le véritable précurseur du socialisme et du collectivisme. On trouve chez l’auteur du Contrat social une phrase qui résume assez bien sa philosophie : « nous ne commençons à devenir hommes qu’après avoir été citoyens ».
 
 ![image](assets/en/047.webp)
 
-Au départ, l’homme n’est qu’un bourgeois. Or le bourgeois est un calculateur, il veut son plaisir immédiat, il est asservi à ses sens, à ses désirs, à son intérêt particulier. Bref il n’est pas rationnel, donc il n’est pas libre. Il a besoin d’être éduqué, de comprendre que son véritable intérêt est l’intérêt général. C’est pourquoi écrit Rousseau dans le Contrat Social.
+Au départ, l’homme n’est qu’un bourgeois. Or le bourgeois est un calculateur, il veut son plaisir immédiat, il est asservi à ses sens, à ses désirs, à son intérêt particulier. Bref il n’est pas rationnel, donc il n’est pas libre. Il a besoin d’être éduqué, de comprendre que son véritable intérêt est l’intérêt général. C’est pourquoi écrit Rousseau dans le Contrat Social
 :
 
-> Quiconque refusera d’obéir à la volonté générale y sera contraint par tout le corps: ce qui ne signifie autre chose sinon qu’on le forcera d’être libre.
+> Quiconque refusera d’obéir à la volonté générale y sera contraint par tout le corps : ce qui ne signifie autre chose sinon qu’on le forcera d’être libre.
 
 ![image](assets/en/048.webp)
 
 Selon cette doctrine, l’homme a deux volontés en lui : une volonté qui tend à l’intérêt personnel, celle du bourgeois et une volonté qui tend à l’intérêt général, celle du citoyen. Conduire les hommes, y compris par la force, à vouloir une fin rationnelle, l’intérêt général, c’est conduire les hommes à devenir libres. Ce qu’ils veulent vraiment, c’est une fin rationnelle, même s’ils ne le savent pas.
 
-Il est donc parfaitement légitime, selon Rousseau, de contraindre des hommes au nom d’une fin qu’eux-mêmes, s’ils avaient été plus éclairés, auraient poursuivie, mais qu’ils ne poursuivent pas parce qu’ils sont aveugles, ignorants ou corrompus. La société est fondée à les forcer à faire ce qu’ils devraient désirer spontanément s’ils étaient éclairés. Et ce faisant, on ne leur fait pas violence puisqu’on les conduit à être « libres », c’est-à-dire à faire les bons, choix, les choix conformes à leur moi véritable.
+Il est donc parfaitement légitime, selon Rousseau, de contraindre des hommes au nom d’une fin qu’eux-mêmes, s’ils avaient été plus éclairés, auraient poursuivie, mais qu’ils ne poursuivent pas parce qu’ils sont aveugles, ignorants ou corrompus. La société est fondée à les forcer à faire ce qu’ils devraient désirer spontanément s’ils étaient éclairés. Et ce faisant, on ne leur fait pas violence puisqu’on les conduit à être « libres », c’est-à-dire à faire les bons choix, les choix conformes à leur moi véritable.
 
 ![image](assets/en/049.webp)
 
 Convaincu que la bonne société est une création de la loi, Rousseau accorde donc un pouvoir sans limite au législateur. C’est à lui de transformer les personnes en hommes accomplis, en citoyens.
 
-Mais, c’est également à la loi de faire exister la propriété. Selon Rousseau, la propriété ne peut être légitime que si elle est réglementée par le législateur. En effet le mal réside dans l'inégalité et la servitude, qui proviennent toutes deux de la propriété. Celle-ci est une invention des forts qui a conduit à la mauvaise société, à la société bourgeoise, aux rapports de domination
+Mais, c’est également à la loi de faire exister la propriété. Selon Rousseau, la propriété ne peut être légitime que si elle est réglementée par le législateur. En effet le mal réside dans l'inégalité et la servitude, qui proviennent toutes deux de la propriété. Celle-ci est une invention des forts qui a conduit à la mauvaise société, à la société bourgeoise, aux rapports de domination.
 
-Dans son Discours sur l’origine et les fondements de l’inégalité, il écrit ce passage célèbre
+Dans son Discours sur l’origine et les fondements de l’inégalité, il écrit ce passage célèbre :
 
-> Le premier qui ayant enclos un terrain s’avisa de dire : Ceci est à moi, et trouva des gens assez simples pour le croire, fut le vrai fondateur de la société civile. Que de crimes, de guerres, de meurtres, que de misères et d’horreurs n’eût point épargnés au genre humain celui qui, arrachant les pieux ou comblant le fossé, eût crié à ses semblables : “Gardez-vous d’écouter cet imposteur ; vous êtes perdus si vous oubliez que les fruits sont à tous et que la terre n’est à personne!.
+> Le premier qui ayant enclos un terrain s’avisa de dire : Ceci est à moi, et trouva des gens assez simples pour le croire, fut le vrai fondateur de la société civile. Que de crimes, de guerres, de meurtres, que de misères et d’horreurs n’eût point épargnés au genre humain celui qui, arrachant les pieux ou comblant le fossé, eût crié à ses semblables : “Gardez-vous d’écouter cet imposteur ; vous êtes perdus si vous oubliez que les fruits sont à tous et que la terre n’est à personne !"
 
 ![image](assets/en/050.webp)
 
 La propriété naturelle est donc la source du mal. Et Marx, grand lecteur de Rousseau, s’en souviendra. Comment combattre ce mal ? Par le contrat social, répond Rousseau. En effet la bonne société est celle qui résulte d'un contrat qui stipule l’aliénation de l’individu avec tous ses droits à la communauté. Dès lors, c’est à la communauté de concéder à l’individu des droits par l’intermédiaire de la loi.
 
-A l'opposé de Rousseau, Frédéric Bastiat dit que « l'homme naît propriétaire. » Pour lui, la propriété est une conséquence nécessaire de la nature de l'homme, de sa constitution. Il écrit que « l'homme naît propriétaire, parce qu'il naît avec des besoins dont la satisfaction est indispensable à la vie, avec des organes et des facultés dont l'exercice est indispensable à la satisfaction de ces besoins ». Or les facultés ne sont que le prolongement de la personne et la propriété n'est que le prolongement des facultés. Autrement dit, c’est l’usage de nos facultés dans le travail qui légitime la propriété.
+À l'opposé de Rousseau, Frédéric Bastiat dit que « l'homme naît propriétaire ». Pour lui, la propriété est une conséquence nécessaire de la nature de l'homme, de sa constitution. Il écrit que « l'homme naît propriétaire, parce qu'il naît avec des besoins dont la satisfaction est indispensable à la vie, avec des organes et des facultés dont l'exercice est indispensable à la satisfaction de ces besoins ». Or les facultés ne sont que le prolongement de la personne et la propriété n'est que le prolongement des facultés. Autrement dit, c’est l’usage de nos facultés dans le travail qui légitime la propriété.
 
 ![image](assets/en/051.webp)
 
@@ -474,7 +474,7 @@ En premier lieu, dit-il, les Romains considéraient la propriété comme un fait
 
 Ils avaient bien une définition empirique de la propriété, « jus utendi et abutendi » (le droit d’user et d’abuser). Mais cette définition ne concernait que les effets et non les causes, autrement dit les origines éthiques de la propriété. Pour établir la propriété correctement, il faut remonter jusqu'à la constitution même de l'homme, et comprendre le rapport et l'enchaînement nécessaire qui existent entre les besoins, les facultés, le travail et la propriété. Les Romains, qui étaient propriétaires d'esclaves, pouvaient-ils concevoir l'idée que « tout homme se possède lui-même, et par conséquent son travail, et, en conséquence, le produit de son travail » ? se demande Bastiat.
 
-> Ne soyons donc pas surpris, conclut Bastiat, de voir se reproduire, dans le dix-huitième siècle, cette idée romaine que la propriété est un fait conventionnel et d'institution légale; que, bien loin que la Loi soit un corollaire de la Propriété, c'est la Propriété qui est un corollaire de la Loi.
+> Ne soyons donc pas surpris, conclut Bastiat, de voir se reproduire, dans le dix-huitième siècle, cette idée romaine que la propriété est un fait conventionnel et d'institution légale ; que, bien loin que la Loi soit un corollaire de la Propriété, c'est la Propriété qui est un corollaire de la Loi.
 
 On retrouve en effet chez Rousseau cette idée commune des juristes de faire reposer la propriété sur la loi. Rousseau attribue à la loi, et par suite au peuple, une puissance absolue sur les personnes et les propriétés.
 
@@ -482,7 +482,7 @@ Et dans cette conception, qui constitue l’idée même de république depuis la
 
 ![image](assets/en/055.webp)
 
-Au contraire, pour Bastiat, le droit de propriété est antérieur à la loi. C’est ce qu’il appelle le principe des économistes, par opposition au principe des juristes. Alors que « le principe des juristes renferme virtuellement l'esclavage, dit Bastiat, celui des économistes contient la liberté.
+Au contraire, pour Bastiat, le droit de propriété est antérieur à la loi. C’est ce qu’il appelle le principe des économistes, par opposition au principe des juristes. Alors que « le principe des juristes renferme virtuellement l'esclavage ", dit Bastiat, celui des économistes contient la liberté.
 
 Qu’est-ce donc que la liberté ? C’est la propriété, le droit de jouir du fruit de son travail, le droit de travailler, de se développer, d'exercer ses facultés, comme on l'entend, sans que l'État intervienne autrement que par son action protectrice.
 
@@ -503,7 +503,7 @@ _(Richard Cobden)_
 
 Nous l’avons déjà vu, c’est d’abord le combat de Cobden contre le protectionnisme avec la ligue anglaise pour l’abolition des lois sur le blé qui amena Bastiat à écrire des articles puis des livres.
 
-Le protectionnisme est en réalité, une forme de nationalisme économique. Il vise à écarter la concurrence des étrangers tout en prétextant la « défense des intérêts nationaux » Ils tentent alors de faire admettre aux pouvoirs publics un ensemble de contre-vérités purement démagogiques, présentées comme vertueuses : la défense des emplois, de la compétitivité etc. Bien entendu les élus cèdent à la pression des producteurs, parce ce que c’est pour eux une occasion rêvée de consolider leur clientèle et d’élargir leur pouvoir.
+Le protectionnisme est en réalité une forme de nationalisme économique. Il vise à écarter la concurrence des étrangers tout en prétextant la « défense des intérêts nationaux ». Ils tentent alors de faire admettre aux pouvoirs publics un ensemble de contre-vérités purement démagogiques, présentées comme vertueuses : la défense des emplois, de la compétitivité etc. Bien entendu les élus cèdent à la pression des producteurs, parce ce que c’est pour eux une occasion rêvée de consolider leur clientèle et d’élargir leur pouvoir.
 
 ![image](assets/en/058.webp)
 
@@ -511,7 +511,7 @@ L’argument de la protection des emplois est ce que Bastiat appelle un sophisme
 
 Imaginons un couteau anglais qui se vend dans notre pays pour 2 euros, et qu’un couteau fabriqué en France en vaut 3. Si on laisse le consommateur libre d’acheter le couteau qu’il veut, il gagne un franc, qu’il peut investir ailleurs (dans un livre, ou un crayon).
 
-Si on interdit le produit anglais, le consommateur paiera un franc de plus son couteau. Le protectionnisme se traduit donc par un profit, pour une industrie nationale et par deux pertes, l’une pour une autre industrie (celle des crayons) et l’autre pour le consommateur. Au contraire, l’échange libre fait deux heureux gagnants.
+Si on interdit le produit anglais, le consommateur paiera un franc de plus son couteau. Le protectionnisme se traduit donc par un profit pour une industrie nationale et par deux pertes, l’une pour une autre industrie (celle des crayons) et l’autre pour le consommateur. Au contraire, l’échange libre fait deux heureux gagnants.
 
 ![image](assets/en/059.webp)
 
@@ -519,7 +519,7 @@ Le protectionnisme est également une forme de lutte des classes. Selon Bastiat,
 
 ![image](assets/en/060.webp)
 
-Bastiat se place résolument du côté des consommateurs. A l’intérêt de classe, il oppose l’intérêt général qui est l’intérêt du consommateur, c’est-à-dire l’intérêt de tous. C’est toujours au point de vue du consommateur que l’État devrait se placer, lorsqu’il agit.
+Bastiat se place résolument du côté des consommateurs. À l’intérêt de classe, il oppose l’intérêt général qui est l’intérêt du consommateur, c’est-à-dire l’intérêt de tous. C’est toujours au point de vue du consommateur que l’État devrait se placer, lorsqu’il agit.
 
 Avec la révolution de Février 1848 et ses barricades, un ennemi plus redoutable que le protectionnisme va surgir, avec lequel il a pourtant de nombreuses affinités :
 
@@ -527,7 +527,7 @@ Avec la révolution de Février 1848 et ses barricades, un ennemi plus redoutabl
 
 le socialisme. De quoi s’agit-il ? D’un mouvement politique qui réclame l’organisation du travail par la loi, la nationalisation des industries et des banques, la redistribution des richesses par la fiscalité. Bastiat va désormais concentrer toute son énergie, tout son talent, tous ses écrits, contre cette nouvelle doctrine qui ne peut aboutir qu’à la croissance exponentielle du pouvoir et à la lutte des classes perpétuelle. Ainsi, dès les premiers jours de la révolution, il apporte son concours à un journal éphémère nommé « La République Française », qui va passer très vite pour un journal contre-révolutionnaire. C'est l'époque où il écrit ses pamphlets sur la propriété, sur l'État, sur la spoliation et sur la loi.
 
-Le 27 juin 1848, au lendemain d’une nouve lle sanglante insurrection à Paris, dans une longue lettre à Richard Cobden, il s’attarde sur les causes qui ont pu conduire à ces événements.
+Le 27 juin 1848, au lendemain d’une nouvelle sanglante insurrection à Paris, dans une longue lettre à Richard Cobden, il s’attarde sur les causes qui ont pu conduire à ces événements.
 
 - 1° La première de ces causes, c’est l’ignorance économique. C’est elle qui prépare les esprits à recevoir les utopies du socialisme et du faux républicanisme. Je renvoie sur ce point à la vidéo précédente, sur les tendances de l'éducation classique et universitaire.
 
@@ -539,7 +539,7 @@ Et il ne cessera par la suite d’en analyser les effets pervers. En voici un pa
 
 > En vertu des penchants naturels du cœur humain, chacun s'est mis à réclamer pour lui, de l'État, une plus grande part de bien-être. C'est-à-dire que l'État ou le trésor public a été mis au pillage. Toutes les classes ont demandé à l'État, comme en vertu d'un droit, les moyens d'existence. Les efforts faits dans ce sens par l'État n'ont abouti qu'à des impôts et des entraves, et à l'augmentation de la misère.
 
-- 3° Bastiat ajoute qu’à ses yeux, le protectionnisme a été la première manifestation de ce désordre. Les capitalistesont commencé par demander l'intervention de la loi pour accroître leur part de richesse. Fatalement les ouvriers ont voulu faire de même.
+- 3° Bastiat ajoute qu’à ses yeux, le protectionnisme a été la première manifestation de ce désordre. Les capitalistes ont commencé par demander l'intervention de la loi pour accroître leur part de richesse. Fatalement les ouvriers ont voulu faire de même.
 
 ![image](assets/en/063.webp)
 
@@ -578,11 +578,11 @@ Proudhon voit dans l’intérêt du capital la cause initiale du paupérisme et 
 
 ![image](assets/en/070.webp)
 
-Bastiat réfute son adversaire en plusieurs temps. D’abord il analyse les effets pervers de la gratuité du crédit et de la création monétaire. Un tel système ne peut qu’inciter les actions les plus risquées et les plus folles des banques et des acteurs privés car ils se savent couverts par l'État, c’est-à-dire par l'argent des contribuables : « C'est une chose grave que de placer tous les hommes en situation de se dire : Tentons la fortune avec le bien d'autrui; si je réussis, tant mieux pour moi; si j'échoue, tant pis pour les autres ». Phrase prémonitoire tant elle pourrait s’appliquer à notre époque.
+Bastiat réfute son adversaire en plusieurs temps. D’abord il analyse les effets pervers de la gratuité du crédit et de la création monétaire. Un tel système ne peut qu’inciter les actions les plus risquées et les plus folles des banques et des acteurs privés car ils se savent couverts par l'État, c’est-à-dire par l'argent des contribuables : « C'est une chose grave que de placer tous les hommes en situation de se dire : Tentons la fortune avec le bien d'autrui; si je réussis, tant mieux pour moi ; si j'échoue, tant pis pour les autres ». Phrase prémonitoire tant elle pourrait s’appliquer à notre époque.
 
 ![image](assets/en/071.webp)
 
-La politique des taux bas pratiquée par les banques centrales, est une façon de créer artificiellement de la monnaie Et les crises successives du système financier depuis un siècle, avec l’endettement des États, en sont les conséquences directes.
+La politique des taux bas pratiquée par les banques centrales, est une façon de créer artificiellement de la monnaie. Et les crises successives du système financier depuis un siècle, avec l’endettement des États, en sont les conséquences directes.
 
 Ensuite Bastiat montre qu’il est possible d’améliorer le pouvoir d’achat des classes ouvrières, mais par d’autres moyens, plus justes et plus efficaces. Pour lui la baisse des taux d’intérêt est également le but d’une politique libérale. Mais c’est par la libération et l’accumulation des capitaux qu’on y parvient et non par l’abolition de l’intérêt, c’est-à-dire la gratuité du crédit.
 
@@ -594,10 +594,10 @@ En effet, selon Bastiat, le progrès de l'humanité coïncide avec la formation 
 
 Sans capital accumulé, sans matériaux, Robinson serait voué à la mort. Il explique ensuite que le capital est deux fois l’enrichissement du travailleur :
 
-- Il augmente la production, donc diminue le prix du bien à la consommation
+- Il augmente la production, donc diminue le prix du bien à la consommation ;
 - Ce qui a pour effet d’augmenter le salaire.
 
-Dans la société moderne, le capital est une force égalisatrice. En effet, dit Bastiat:
+Dans la société moderne, le capital est une force égalisatrice. En effet, dit Bastiat :
 
 > « quand les capitaux se multiplient, ils se font concurrence entre eux ; leur rémunération diminue, ou, en d’autres termes, l’intérêt baisse. »
 
@@ -619,15 +619,15 @@ Dans ce chapitre, je vais vous dévoiler une toute nouvelle technologie, une tec
 
 L’inventeur du premier prototype de ces lunettes c’est Frédéric Bastiat en 1850 dans un célèbre pamphlet : Ce qu’on voit et ce qu’on ne voit pas. Ces lunettes, ce sont celle de l’économiste. Elles permettent de mesurer les conséquences des décisions prises par le pouvoir sur nos vies. Ce sont les lunettes qui « permettent de voir ce qu’on ne voit pas » : les destructions que causent les politiques clientélistes et les fausses théories économiques. Souvent on ne voit pas leurs victimes, ni leurs bénéficiaires, en somme leurs véritables effets par opposition aux prétentions affichées dans les discours officiels, ce que Bastiat appelle « Les sophismes économiques ».
 
-Le bon économiste, selon Bastiat, doit décrire les effets des décisions politiques sur la société. Mais il doit être attentif, non pas à ses effets à court terme sur un groupe particulier, mais plutôt à ses conséquences à long terme pour la société dans son ensemble. Quelles sont les victimes et quels sont les bénéficiaires de ces politiques? Quels sont les coûts cachés de telle ou telle loi ou décision politique ? Qu’auraient fait les contribuables à la place du gouvernement, avec l’argent qu’on leur a enlevé en impôts ? Telles sont les questions posées par le bon économiste selon Bastiat.
+Le bon économiste, selon Bastiat, doit décrire les effets des décisions politiques sur la société. Mais il doit être attentif, non pas à ses effets à court terme sur un groupe particulier, mais plutôt à ses conséquences à long terme pour la société dans son ensemble. Quelles sont les victimes et quels sont les bénéficiaires de ces politiques ? Quels sont les coûts cachés de telle loi ou décision politique ? Qu’auraient fait les contribuables à la place du gouvernement, avec l’argent qu’on leur a enlevé en impôts ? Telles sont les questions posées par le bon économiste selon Bastiat.
 
 Ainsi dans Travaux publics, Bastiat écrit :
 
-> L'État ouvre un chemin, bâtit un palais, redresse une rue, perce un canal; par-là, il donne du travail à certains ouvriers, c'est ce qu'on voit; mais il prive de travail certains autres, c'est ce qu'on ne voit pas.
+> L'État ouvre un chemin, bâtit un palais, redresse une rue, perce un canal ; par-là, il donne du travail à certains ouvriers, c'est ce qu'on voit ; mais il prive de travail certains autres, c'est ce qu'on ne voit pas.
 
 L’un des sophismes les plus connus est le sophisme de la vitre cassée. Certains prétendent que le bris d’une vitre dans une maison ne nuit pas à l’économie puisqu’il profite au vitrier. Mais Bastiat va montrer que la destruction n’est pas conforme à notre intérêt car elle ne créé pas de richesse. Elle coûte plus qu’elle ne rapporte. Le jeune garçon qui brise la fenêtre d'un voisin donne du travail au verrier. Mais voici que ses amis le consolent :
 
-> « À quelque chose malheur est bon. De tels accidents font aller l’industrie. Il faut que tout le mo nde vive. Que deviendraient les vitriers si on ne cassait jamais de vitres ».
+> « À quelque chose malheur est bon. De tels accidents font aller l’industrie. Il faut que tout le monde vive. Que deviendraient les vitriers si on ne cassait jamais de vitres ».
 
 Ainsi, selon Keynes, la destruction de la propriété, en forçant à la dépense, stimulerait l’économie et aurait un « effet multiplicateur » revigorant sur la production et l’emploi. C'est seulement ce qu’on voit.
 
@@ -639,7 +639,7 @@ Ainsi, il n’y aura pas plus de « relance » de l’économie avec le bris de 
 
 La première leçon à retenir, c’est qu’une « bonne » décision ou une « bonne » politique est une politique qui coûte moins à la société que ce qu'une autre allocation des ressources aurait pu lui coûter. Il faut juger l’efficacité d’une politique non seulement sur la base de ses effets, mais aussi sur la base des alternatives qui auraient pu se produire. C’est la notion de « coût d’opportunité », chère à Bastiat.
 
-La seconde leçon est qu’une destruction ne stimule pas l’économie comme le pensent les keynésiens mais conduit à l'appauvrissement. La destruction de biens matériels n'a pas d'effet positif sur l'économie, contrairement à une idée reçue. Pour reprendre les mots de conclusion du texte de Frédéric Bastiat : « la société perd la valeur des objets inutilement détruits »
+La seconde leçon est qu’une destruction ne stimule pas l’économie comme le pensent les keynésiens mais conduit à l'appauvrissement. La destruction de biens matériels n'a pas d'effet positif sur l'économie, contrairement à une idée reçue. Pour reprendre les mots de conclusion du texte de Frédéric Bastiat : « la société perd la valeur des objets inutilement détruits ».
 
 Prenons un exemple actuel. Dès que l’industrie automobile se porte mal, les politiques imaginent des primes à la casse pour la « relancer ». Ce qu’on voit, c’est l’augmentation des ventes de Renault et de Peugeot. Ce qu’on ne voit pas, c’est le manque à gagner pour d’autres secteurs économiques et c’est que des autos en parfait état de marche sont détruites.
 
@@ -657,7 +657,7 @@ La grande leçon de cette série de textes, c’est que l'intervention de l'Éta
 
 :::video id=b1856cde-9156-4a16-99fa-a0e45edcc905:::
 
-En 1840, la Chambre des députés vota une loi augmentant les taxes à l’importation afin de protéger l’industrie française. C’est le fameux patriotisme économique, qu’on retrouve encore de nos jours .
+En 1840, la Chambre des députés vota une loi augmentant les taxes à l’importation afin de protéger l’industrie française. C’est le fameux patriotisme économique, qu’on retrouve encore de nos jours.
 
 ![image](assets/en/077.webp)
 ![image](assets/en/078.webp)
@@ -686,7 +686,7 @@ Le protectionnisme repose également sur un syllogisme caché qui s’avère êt
 - Plus on a de difficultés à vaincre les obstacles, plus on travaille ;
 - Donc, plus on a de difficultés à vaincre, plus on est riche.
 
-Illustrons cette absurdité avec quelques petites histoires que nous raconte encore Bastiat. Dans le chapitre III de la seconde série des Sophismes Économiques, il imagine un charpentier qui écrit au ministre une pétition pour lui demander une législation protectionniste. Le charpentier formule ainsi sa requête : Monsieur le ministre, faites une loi qui stipule que « Nul ne pourra se servir que de poutres et solives produits de haches obtuses ». Autrement dit, faites une loi qui interdit en France l’usage des haches aiguisées. Ainsi, là où l’on donne habituellement 100 coups de hache, il faudra en donner 300. Les charpentiers seront très demandés et donc mieux payés .
+Illustrons cette absurdité avec quelques petites histoires que nous raconte encore Bastiat. Dans le chapitre III de la seconde série des Sophismes Économiques, il imagine un charpentier qui écrit au ministre une pétition pour lui demander une législation protectionniste. Le charpentier formule ainsi sa requête : Monsieur le ministre, faites une loi qui stipule que « Nul ne pourra se servir que de poutres et solives produits de haches obtuses ». Autrement dit, faites une loi qui interdit en France l’usage des haches aiguisées. Ainsi, là où l’on donne habituellement 100 coups de hache, il faudra en donner 300. Les charpentiers seront très demandés et donc mieux payés.
 
 ![image](assets/en/081.webp)
 
@@ -724,7 +724,7 @@ De quoi s’agit-il ?
 
 L’économie décrit les effets, bons ou mauvais, des décisions politiques sur nos vies. Or, selon Bastiat, l’économiste doit être attentif, non pas seulement à leurs effets à court terme sur un groupe particulier mais plutôt à leurs conséquences à long terme pour la société dans son ensemble.
 
-> "Ce qu'on voit, c'est le travail et le profit permis par la cotisation sociale. Ce qu'on ne voit pas, ce sont les travaux auxquels donnerait lieu cette même cotisation si on la laissait aux contribuables. Ce qu'on voit c'est le travail et le profit permis par la cotisation sociale. Ce qu'on ne voit pas, ce sont les travaux auxquels donnerait lieu cette même cotisation si on la laissait aux contribuables."
+> "Ce qu'on voit, c'est le travail et le profit permis par la cotisation sociale. Ce qu'on ne voit pas, ce sont les travaux auxquels donnerait lieu cette même cotisation si on la laissait aux contribuables."
 >  
 > F.Bastiat
 
@@ -746,7 +746,7 @@ Enfin on a assigné à l’impôt un rôle social à remplir. On en a fait un in
 
 Le problème c’est que l’impôt ainsi conçu est soumis à l’arbitraire de celui qui détient le pouvoir. Il favorise ou défavorise telle ou telle catégorie sociale selon que le pouvoir en attend des voix ou pas. De plus les taux progressifs rapportent peu au trésor public. En revanche ils permettent à la majorité d’exproprier une minorité et deviennent naturellement confiscatoires.
 
-C’est pourquoi Bastiat avait déjà comprisla courbe de Laffer. Arthur Laffer est un économiste américain connu pour sa fameuse « courbe » (une ellipse), publiée en 1974, qui montre que le rendement de l’impôt augmente avec la baisse du taux d’imposition. C’est la théorie du rendement décroissant de l'impôt abusif.
+C’est pourquoi Bastiat avait déjà compris la courbe de Laffer. Arthur Laffer est un économiste américain connu pour sa fameuse « courbe » (une ellipse), publiée en 1974, qui montre que le rendement de l’impôt augmente avec la baisse du taux d’imposition. C’est la théorie du rendement décroissant de l'impôt abusif.
 
 ![image](assets/en/087.webp)
 
@@ -754,7 +754,7 @@ Les politiciens supposent naïvement qu'il existe une relation automatique et fi
 
 ![image](assets/en/088.webp)
 
-La courbe de Laffer montre que le gouvernement ne perçoit aucun revenu lorsque les taux d'imposition est de 100%. A l'opposé, toute diminution de l'impôt a pour effet de stimuler l'activité économique et donc les recettes de l’État. En effet, la réduction des taux marginaux d'imposition, stimule l'investissement, le travail, la créativité et favorise ainsi la croissance économique. Une réduction suffisante pourrait produire suffisamment de relance économique et accroître les recettes publiques en élargissant considérablement l'assiette fiscale.
+La courbe de Laffer montre que le gouvernement ne perçoit aucun revenu lorsque les taux d'imposition est de 100%. À l'opposé, toute diminution de l'impôt a pour effet de stimuler l'activité économique et donc les recettes de l’État. En effet, la réduction des taux marginaux d'imposition, stimule l'investissement, le travail, la créativité et favorise ainsi la croissance économique. Une réduction suffisante pourrait produire suffisamment de relance économique et accroître les recettes publiques en élargissant considérablement l'assiette fiscale.
 
 Bastiat pourrait ajouter qu’on doit accorder autant d'importance aux diminutions des dépenses de l’État qu'à celles des impôts. Quoi qu’il en soit, comme le disait si bien Margaret Thatcher, une disciple de Frédéric Bastiat :
 
@@ -778,7 +778,7 @@ Bastiat fait observer que, pour faire cesser ce genre d’imposture, il y a deux
 
 La faiblesse de la raison humaine est à l’origine du mauvais usage de la liberté. Elle est la principale limite des hommes et la cause de beaucoup de maux. Il s’agit donc d’éclairer les consciences sur le caractère utile ou nuisible, et donc juste ou injuste, des actes humains, qu’ils soient individuels ou collectifs.
 
-Or il y a deux manières complémentaires d’éclairer le jugement des citoyens, que Bastiat expose dans un chapitre de la seconde série des Sophismes Économiques intitulé « Deux morales » .
+Or il y a deux manières complémentaires d’éclairer le jugement des citoyens, que Bastiat expose dans un chapitre de la seconde série des Sophismes Économiques intitulé « Deux morales ».
 
 ![image](assets/en/091.webp)
 
@@ -787,9 +787,9 @@ Or il y a deux manières complémentaires d’éclairer le jugement des citoyens
 
 En fait, ce sont deux morales parfaitement complémentaires.
 
-1. L’une s’adresse au cœur et incite l’homme à faire le bien, c’est la morale religieuse ou philosophique. C’est la plus noble. Elle enracine dans le cœur de l’homme la conscience de son devoir. Elle lui dit:
+1. L’une s’adresse au cœur et incite l’homme à faire le bien, c’est la morale religieuse ou philosophique. C’est la plus noble. Elle enracine dans le cœur de l’homme la conscience de son devoir. Elle lui dit :
 
-> Corrige-toi; épure-toi; cesse de faire le mal; fais le bien, dompte tes passions; sacrifie tes intérêts; n'opprime pas ton prochain que ton devoir est d'aimer et soulager; sois juste d'abord et charitable ensuite.
+> Corrige-toi ; épure-toi ; cesse de faire le mal ; fais le bien, dompte tes passions ; sacrifie tes intérêts ; n'opprime pas ton prochain que ton devoir est d'aimer et soulager; sois juste d'abord et charitable ensuite.
 
 Bref, elle enseigne la vertu, l’acte désintéressé. Cette morale dit Bastiat sera éternellement la plus belle et la plus touchante, car elle montre ce qu’il y a de meilleur en l’homme.
 
@@ -843,20 +843,20 @@ Prenons un menuisier dans un village, dit-il et observons tous les services qu�
 
 > Tous les jours, en se levant il s’habille, et il n’a personnellement fait aucun de ses vêtements. Or, pour que ces vêtements soient à sa disposition, il faut qu’une énorme quantité de travail, d’industrie, de transports, d’inventions ingénieuses, ait été accomplie dans le monde entier.
 >  
-> Ensuite il déjeune. Pour que lepain qu’il mange arrive tous les matins sur sa table, il faut que des terres aient été défrichées, labourées; il faut que le fer, l’acier, le bois, la pierre aient été convertis en instruments de travail ; toutes choses dont chacune, prise isolément, suppose une masse incalculable de travail mise en jeu, non-seulement dans l’espace, mais dans le temps.
+> Ensuite il déjeune. Pour que le pain qu’il mange arrive tous les matins sur sa table, il faut que des terres aient été défrichées, labourées ; il faut que le fer, l’acier, le bois, la pierre aient été convertis en instruments de travail ; toutes choses dont chacune, prise isolément, suppose une masse incalculable de travail mise en jeu, non-seulement dans l’espace, mais dans le temps.
 >  
 > Cet homme enverra son fils à l’école, pour y recevoir une instruction qui suppose des recherches, de longues années d’études antérieures.
 > Il sort dehors : il trouve une rue pavée et éclairée.
 >  
-> On lui conteste une propriété : il trouvera des avocats pour défendre ses droits, des juges pour l’y maintenir, des officiers de justice pour faire exécuter la sentence; toutes choses qui supposent encore des connaissances acquises, par conséquent des lumières et des moyens d’existence.
+> On lui conteste une propriété : il trouvera des avocats pour défendre ses droits, des juges pour l’y maintenir, des officiers de justice pour faire exécuter la sentence ; toutes choses qui supposent encore des connaissances acquises, par conséquent des lumières et des moyens d’existence.
 
 Bastiat décrit le marché comme un outil de coopération décentralisé et invisible. Par le système des prix, il transmet des informations sur les besoins et les compétences de chacun, il met en relation les hommes qui veulent coopérer en vue d’améliorer leur existence.
 
-Ce qui est frappant, conclut Bastiat, c’est la disproportion immense qui existe entre les bienfaits que cet homme puise dans la société et ceux qu’il se donnerait à lui-même, s’il était réduit à ses propres forces. En une seule journée, il consomme des biens qu’il ne pourrait produire lui-même
+Ce qui est frappant, conclut Bastiat, c’est la disproportion immense qui existe entre les bienfaits que cet homme puise dans la société et ceux qu’il se donnerait à lui-même, s’il était réduit à ses propres forces. En une seule journée, il consomme des biens qu’il ne pourrait produire lui-même.
 
 ![image](assets/en/096.webp)
 
-En 1958, l’écrivain américain Leonard Read (Foundation for Economic Education) publie dans la revue The Freeman un petit essai, écrit à la manière de Bastiat, devenu très célèbre : "I, pencil", ( Moi, le crayon)Ce texte est une métaphore de ce qu’est un marché libre. Il commence ainsi :
+En 1958, l’écrivain américain Leonard Read (Foundation for Economic Education) publie dans la revue The Freeman un petit essai, écrit à la manière de Bastiat, devenu très célèbre : "I, pencil", ( Moi, le crayon). Ce texte est une métaphore de ce qu’est un marché libre. Il commence ainsi :
 
 > Je suis un crayon à mine, un crayon ordinaire en bois, familier à tous les garçons et les filles et les adultes qui savent lire et écrire. Il est l’un des objets les plus simples dans la civilisation humaine. Et pourtant pas une seule personne sur cette terre ne sait comment me produire.
 
@@ -892,9 +892,9 @@ Dans une lettre à Alphonse de Lamartine en 1845, Bastiat écrit que toute sa ph
 
 ![image](assets/en/100.webp)
 
-Mais il ajoute cependant une condition
+Mais il ajoute cependant une condition :
 
-> Que la loi ne vienne pas supprimer les conséquences, positives ou négatives, des actions de chacun. C’est le principe corollaire de la responsabilité ».: « que la loi ne vienne pas supprimer les conséquences, positives ou négatives, des actions de chacun. C’est le principe corollaire de la responsabilité.
+> Que la loi ne vienne pas supprimer les conséquences, positives ou négatives, des actions de chacun. C’est le principe corollaire de la responsabilité » ; « que la loi ne vienne pas supprimer les conséquences, positives ou négatives, des actions de chacun. C’est le principe corollaire de la responsabilité ".
 
 Autrement dit liberté et responsabilité ne peuvent être séparées, elles sont indissociables. Le libéralisme pour lui se distingue du socialisme par la conviction que la liberté ne peut exister sans responsabilité. Mais quelles réalités recouvrent exactement les mots de liberté et de responsabilité ?
 
@@ -916,7 +916,7 @@ En effet, l’étatisme réduit sans cesse l’initiative privée et le libre ch
 
 ![image](assets/en/102.webp)
 
-Selon Bastiat, l’hypertrophie des lois et l’intervention excessive de l’État ont pour conséquence d’engendrer la lutte pour le pouvoir, la spoliation, les privilèges, les monopoles, les guerres, bref, tout ce fait obstacle au progrès de la civilisation.
+Selon Bastiat, l’hypertrophie des lois et l’intervention excessive de l’État ont pour conséquence d’engendrer la lutte pour le pouvoir, la spoliation, les privilèges, les monopoles, les guerres, bref, tout ce qui fait obstacle au progrès de la civilisation.
 
 Le risque qu’il y a à vouloir trop favoriser la voie de la loi ou du contrôle bureaucratique, c’est de décourager toute motivation en imposant une avalanche de contraintes et ainsi de se priver des multiples progrès que permettent l’initiative privée et le libre choix.
 
@@ -926,13 +926,13 @@ Illustrons cette question avec quelques grands sujets d’actualité. Premier ex
 
 _(Alan Greenspan, président de la FED, la banque centrale américaine, de 1987 à 2006)_
 
-Pendant des années, les dirigeants de la politique monétaire ont expliqué que si les gains sont privatisés lorsque tout va bien, les pertes seront mutualisées en cas de faillite (renflouements, plans de sauvetage, manipulation des taux d’intérêts, planche à billet etc.). Ce faisant, ils ont créé un aléa moral, ils ont facilité la prise de risque déraisonnable et ils ont incité le monde de la finance à se comporter de façon irresponsable. Ils ont donc précipité la finance dans la crise que nous avons connue.
+Pendant des années, les dirigeants de la politique monétaire ont expliqué que si les gains sont privatisés lorsque tout va bien, les pertes seront mutualisées en cas de faillite (renflouements, plans de sauvetage, manipulation des taux d’intérêts, planche à billets etc.). Ce faisant, ils ont créé un aléa moral, ils ont facilité la prise de risque déraisonnable et ils ont incité le monde de la finance à se comporter de façon irresponsable. Ils ont donc précipité la finance dans la crise que nous avons connue.
 
 ![image](assets/en/104.webp)
 
 Et le phénomène se répètera indéfiniment tant que les banques resteront sous la domination d’autorités centrales censées les protéger en leur retirant toute autonomie de décision et de fonctionnement.
 
-Un autre exemple : les services publics
+Un autre exemple : les services publics.
 
 ![image](assets/en/105.webp)
 
@@ -948,7 +948,7 @@ Quand on observe le service public de l’éducation nationale, on comprend ce q
 
 Nous le verrons dans un autre cours, les seuls services publics légitimes d’un État selon Bastiat sont au nombre de trois : l’armée, la police et la justice. Mais pour conclure sur la responsabilité, le problème de l’intervention de l’État, c’est que ceux qui prennent des décisions ne sont pas ceux qui en subissent les conséquences.
 
-Autrement dit, les choix collectifs ne sont pas des choix responsables puisque d’une part ils n’entrainent aucune prise de risque pour les décideurs et que d’autre part ils forcent les autres à en subir certaines conséquences, ce qui est aussi désastreux qu’immoral.
+Autrement dit, les choix collectifs ne sont pas des choix responsables puisque d’une part ils n’entrainent aucune prise de risque pour les décideurs, et que d’autre part ils forcent les autres à en subir certaines conséquences, ce qui est aussi désastreux qu’immoral.
 
 ## La Puissance de la Responsabilité
 
@@ -1026,7 +1026,7 @@ C’est que Bastiat appelle « le sophisme de la fraternité légale ». Citons-
 
 > La fraternité est spontanée, ou n'est pas. La décréter, c'est l'anéantir.
 
-Et encore:
+Et encore :
 
 > Les Gouvernements n'exercent jamais qu'une action qui a pour sanction la Force. Or, il est permis de forcer quelqu'un d'être juste, non de le forcer d'être charitable. La Loi, quand elle veut faire par la force ce que la morale fait faire par la persuasion, bien loin de s'élever à la région de la Charité, tombe dans le domaine de la Spoliation.
 
@@ -1079,7 +1079,7 @@ Ce point étant posé, pour comprendre le fondement moral de la propriété, Bas
 Entendu en ce sens, le droit de Propriété fait partie de ces droits qui ne dérivent pas de la loi positive, mais la précèdent et sont sa raison d'être. En effet,
 
 > La loi est l’organisation collective du droit individuel de légitime défense.
-> La loi
+> La loi.
 
 Elle a pour mission de défendre la personne et ses biens.
 
@@ -1090,7 +1090,7 @@ Le droit n’est donc pas la même chose que la loi. Le droit ne s’identifie p
 
 Le droit « ne se crée pas ». Il ne s’invente pas à partir d’une vision idéale de ce que devraient être les lois de la société, il se découvre dans la nature de l’homme et dans les règles de la civilité, transmises par la sagesse des coutumes.
 
-Ainsi les individus ont des droits naturels qui préexistent à la loi les individus ont des droits naturels qui préexistent à la loi : la Propriété, la Liberté, la Personnalité. Le rôle de la Loi doit être de préserver ces droits naturels de l’individu. Par conséquent l’État doit être limité. Nous dirions aujourd’hui que Bastiat est un adepte de l’État minimum.
+Ainsi les individus ont des droits naturels qui préexistent à la loi : la Propriété, la Liberté, la Personnalité. Le rôle de la Loi doit être de préserver ces droits naturels de l’individu. Par conséquent l’État doit être limité. Nous dirions aujourd’hui que Bastiat est un adepte de l’État minimum.
 
 ![image](assets/en/121.webp)
 
@@ -1133,7 +1133,7 @@ Quelle est la vraie nature de la loi ?
 
 Bastiat commence par poser les fondements anthropologiques naturels de la loi : la vie, la liberté et la propriété.
 
-Le système institutionnel de la liberté naturelle, est celui pour lequel la société, les personnes et les propriétés existent antérieurement aux lois. Dans ce système, ajoute Bastiat:
+Le système institutionnel de la liberté naturelle, est celui pour lequel la société, les personnes et les propriétés existent antérieurement aux lois. Dans ce système, ajoute Bastiat :
 
 > Ce n'est pas parce qu'il y a des lois qu'il y a des propriétés, mais parce qu'il y a des propriétés qu'il y a des lois.
 > Propriété et Loi
@@ -1144,7 +1144,7 @@ Chaque homme est autorisé à défendre sa vie et à faire usage de ses faculté
 
 Or quand la loi cesse d’être négative pour devenir positive, le sentiment d’inégalité s’accroît dans la société et génère les conflits. Si on élargi indéfiniment le domaine de la Loi, c'est-à-dire la responsabilité du gouvernement, on ouvre la porte à ANIM 1 PE « une série sans fin de plaintes, de haines, de troubles et de révoltes », écrit-il.
 
-La fausse philanthropie dit Bastiat est l’une des grandes causes de la perversion de la loi. Certains hommes se considèrent au-dessus du reste de l’humanité et capables de faire de meilleurs choix que les autres.
+La fausse philanthropie, dit Bastiat, est l’une des grandes causes de la perversion de la loi. Certains hommes se considèrent au-dessus du reste de l’humanité et capables de faire de meilleurs choix que les autres.
 
 ![image](assets/en/127.webp)
 
@@ -1170,7 +1170,7 @@ Ils ont la certitude que leurs Droits naturels sont garantis et intouchables. De
 
 > Absence de Spoliation, — c’est le principe de justice, de paix, d’ordre, de stabilité, de conciliation, de bon sens que je proclamerai de toute la force, hélas ! bien insuffisante, de mes poumons, jusqu’à mon dernier souffle
 
-Ecrit Bastiat dans La Loi, quelques temps avant de mourir.
+Écrit Bastiat dans La Loi, quelques temps avant de mourir.
 
 ![image](assets/en/131.webp)
 
@@ -1215,7 +1215,7 @@ Il assure la Sécurité, intérieure et extérieure, et la Justice. Il peut êtr
 
 ![image](assets/en/107.webp)
 
-En conséquence, les seuls services publics légitimes d’un État selon Bastiat sont ! au nombre de trois : l’armée, la police et la justice. En d’autres termes, l’État doit assurer la protection intérieure et extérieure des personnes, de leur liberté et de leur propriété. Il est donc normal que chacun contribue à cette protection. Mais, au-delà de ces fonctions légitimes, toute autre contribution à un autre service rendu par l’Etat est sujette à caution.
+En conséquence, les seuls services publics légitimes d’un État selon Bastiat sont au nombre de trois : l’armée, la police et la justice. En d’autres termes, l’État doit assurer la protection intérieure et extérieure des personnes, de leur liberté et de leur propriété. Il est donc normal que chacun contribue à cette protection. Mais, au-delà de ces fonctions légitimes, toute autre contribution à un autre service rendu par l’Etat est sujette à caution.
 
 > En dehors de ce cercle, écrit Bastiat, religion, éducation, association, travail, échanges, tout appartient au domaine de l’activité privée, sous l’œil de l’autorité publique, qui ne doit avoir qu’une mission de surveillance et de répression.
 
@@ -1229,7 +1229,7 @@ En résumé, lorsqu’un gouvernement outrepasse sa mission de défense des pers
 
 > L'État, c'est la grande fiction à travers laquelle tout le monde s'efforce de vivre aux dépens de tout le monde.
 
-Ecrit Frédéric Bastiat dans un court pamphlet intitulé L'État.
+Écrit Frédéric Bastiat dans un court pamphlet intitulé L'État.
 
 ![image](assets/en/138.webp)
 
@@ -1273,7 +1273,7 @@ Si nous envisageons les choses sous cet angle, expliquait Reagan aux employés d
 
 ![image](assets/en/138.webp)
 
-En substance, Reagan a retenu de Bastiat quelques éléments clés d’une vision libérale de la société de et de l’homme : le primat de la société civile sur l’État, la valeur du choix et de la responsabilité individuelle, l’importance de l’entrepreneur dans création de richesses, l’importance d’un cadre légal souple et minimal, qui permette la confiance et le respect des contrats, la loi fondamentale qui veut que la richesse soit créée avant d’être répartie, la volonté de donner à chacun sa chance sur des marchés concurrentiels…
+En substance, Reagan a retenu de Bastiat quelques éléments clés d’une vision libérale de la société et de l’homme : le primat de la société civile sur l’État, la valeur du choix et de la responsabilité individuelle, l’importance de l’entrepreneur dans création de richesses, l’importance d’un cadre légal souple et minimal, qui permette la confiance et le respect des contrats, la loi fondamentale qui veut que la richesse soit créée avant d’être répartie, la volonté de donner à chacun sa chance sur des marchés concurrentiels…
 
 # Section finale
 
