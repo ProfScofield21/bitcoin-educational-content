@@ -9,7 +9,7 @@ objectives:
   - Utiliser les principaux outils de diagnostic pour analyser et résoudre des problèmes réseau
 ---
 
-# L’essentiel pour naviguer au sein de l'IP
+# L’essentiel pour naviguer au sein de l'IP 
 
 Plongez au cœur de l’univers IP et donnez-vous les moyens de comprendre et d’administrer efficacement vos réseaux. Dans ce cours, vous découvrirez de manière claire et concrète tout ce qu’il faut savoir sur les réseaux informatiques.
 
