@@ -115,14 +115,14 @@ Par exemple, la fonction de hachage SHA256 produit un hash d'une longueur fixe d
 
 Ces fonctions de hachage cryptographiques possèdent plusieurs caractéristiques essentielles qui les rendent particulièrement utiles dans le contexte de Bitcoin et d'autres systèmes informatiques :
 
-- L'irréversibilité (ou résistance à la préimage)
-- La résistance à la falsification (effet avalanche)
-- La résistance aux collisions
-- La résistance à la seconde préimage
+- L'irréversibilité (ou résistance à la préimage) ;
+- La résistance à la falsification (effet avalanche) ;
+- La résistance aux collisions ;
+- La résistance à la seconde préimage.
 
 #### 1. L'irréversibilité (résistance à la préimage) :
 
-L'irréversibilité signifie qu'il est facile de calculer le hash à partir de l'information en entrée, mais que le calcul inverse, c'est-à-dire retrouver l'entrée à partir du hash, est pratiquement impossible. Cette propriété rend les fonctions de hachage parfaites pour créer des empreintes numériques uniques sans compromettre les informations d'origine. Cette propriété est à l'origine du nom de fonction à sens unique, parfois utilisé pour décrire les fonctions de hashage.
+L'irréversibilité signifie qu'il est facile de calculer le hash à partir de l'information en entrée, mais que le calcul inverse, c'est-à-dire retrouver l'entrée à partir du hash, est pratiquement impossible. Cette propriété rend les fonctions de hachage parfaites pour créer des empreintes numériques uniques sans compromettre les informations d'origine. Cette propriété est à l'origine du nom de fonction à sens unique, parfois utilisé pour décrire les fonctions de hachage.
 
 Dans l'exemple donné, obtenir le hash `24f1b9…` en connaissant l'entrée "_PlanB_" est simple et rapide. Toutefois, retrouver le message "_PlanB_" en connaissant uniquement `24f1b9…` est impossible.
 
@@ -148,7 +148,7 @@ bb038b4503ac5d90e1205788b00f8f314583c5e22f72bec84b8735ba5a36df3f
 
 ![CYP201](assets/en/008.webp)
 
-Cette propriété garantit que même une altération minime du message original est immédiatement détectable, car cela ne modifie pas seulement une petite partie du hash, mais bien tout le hash. Cela pourra nous intéresser dans divers domaines pour vérifier l'intégrité de messages, de logiciels ou encore, de transactions Bitcoin.
+Cette propriété garantit que même une altération minime du message original est immédiatement détectable, car cela ne modifie pas seulement une petite partie du hash, mais bien tout le hash. Cela pourra nous intéresser dans divers domaines pour vérifier l'intégrité de messages, de logiciels ou encore de transactions Bitcoin.
 
 #### 3. La résistance aux collisions
 
