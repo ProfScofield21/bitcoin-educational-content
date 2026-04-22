@@ -59,10 +59,10 @@ Un moteur d'exécution JavaScript est un programme spécial qui exécute ces fic
 Le moteur d'exécution JavaScript le plus courant est NodeJS.
 
 
-Votre IDE peut déjà l'inclure, ou vous devrez peut-être le télécharger depuis le [site officiel](https://nodejs.org/en/download).
+Votre IDE (*Integrated Development Environment*) peut déjà l'inclure, ou vous devrez peut-être le télécharger depuis le [site officiel](https://nodejs.org/en/download).
 
 
-La page de téléchargement vous fournira des instructions pour les trois principaux systèmes d'exploitation (OS) : Windows, Linux et MacOS. Elle suppose que vous sachiez comment ouvrir un terminal dans votre système d'exploitation.
+La page de téléchargement vous fournira des instructions pour les trois principaux systèmes d'exploitation (OS) : Windows, Linux et macOS. Elle suppose que vous sachiez comment ouvrir un terminal dans votre système d'exploitation.
 
 
 Comme NodeJS est disponible pour les trois systèmes d'exploitation, les programmes que vous écrivez pourront être exécutés sur chacun d'entre eux (à l'exception de quelques cas particuliers).
@@ -98,7 +98,7 @@ Créez un répertoire appelé `my_js_code/`, avec à l'intérieur un fichier app
 Ouvrez le répertoire avec votre éditeur de code.
 
 
-Ecrivez ce code dans votre fichier :
+Écrivez ce code dans votre fichier :
 
 
 ```javascript
@@ -114,7 +114,7 @@ node main.js
 ```
 
 
-Le résultat devrait être
+Le résultat devrait être :
 
 
 ```
@@ -145,7 +145,7 @@ console.log(1000)
 ```
 
 
-Exécutez-le ensuite en lançant
+Exécutez-le ensuite en lançant dans votre terminal :
 
 
 ```
@@ -153,10 +153,9 @@ node main.js
 ```
 
 
-dans votre terminal (à partir de maintenant, ce cours supposera que vous savez que c'est ainsi que vous exécutez un programme).
 
 
-Cela devrait afficher 
+Cela devrait afficher :
 
 
 ```
@@ -164,7 +163,7 @@ Cela devrait afficher
 ```
 
 
-Vous pouvez passer plusieurs éléments en arguments, comme
+Vous pouvez passer plusieurs éléments en arguments, comme :
 
 
 ```javascript
@@ -172,13 +171,14 @@ console.log(16, 8, 1993)
 ```
 
 
-Ceci affichera
+Ceci affichera :
 
 
 ```
 16 8 1993
 ```
 
+***(À partir de maintenant, ce cours supposera que vous savez que c'est ainsi que vous exécutez un programme).***
 
 ## Variables et commentaires
 
@@ -188,10 +188,10 @@ Ceci affichera
 Les programmes exécutent généralement des opérations sur des données.
 
 
-Les variables sont comme des boîtes nommées que nous utilisons pour stocker des données. Elles nous permettent d'associer un élément de données à un nom spécifique, de sorte que nous puissions le retrouver plus tard en utilisant ce nom.
+Les variables sont comme des boîtes nommées que nous utilisons pour stocker des données. Elles nous permettent d'associer une donnée à un nom spécifique, afin de pouvoir la retrouver plus tard en utilisant ce nom.
 
 
-### déclarations let
+### Déclarations let
 
 
 Pour déclarer une variable en JavaScript, on peut utiliser le mot-clé `let`.
@@ -227,7 +227,7 @@ Si vous exécutez ce code avec `node main.js`, la sortie sera :
 ```
 
 
-Les noms de variables sont sensibles à la casse, ce qui signifie que les minuscules et les majuscules sont considérés comme des caractères différents. Par exemple
+Les noms de variables sont sensibles à la casse, ce qui signifie que les minuscules et les majuscules sont considérées comme des caractères différents. Par exemple :
 
 
 ```javascript
@@ -252,7 +252,7 @@ console.log(message)
 ```
 
 
-Ceci s'affichera :
+Cela affichera :
 
 
 ```
@@ -277,7 +277,7 @@ console.log(message)
 ```
 
 
-L'exécution de ce programme provoquera l'affichage de :
+L'exécution de ce programme affichera   :
 
 
 ```
@@ -323,7 +323,7 @@ Le résultat sera le suivant :
 C'est très utile lorsque la valeur change avec le temps, comme dans un jeu où le score augmente.
 
 
-Ajoutons une autre variable au mélange :
+Ajoutons une autre variable :
 
 
 ```javascript
@@ -355,14 +355,13 @@ Bob
 Comme vous pouvez le voir, `score` et `player` ont été modifiés.
 
 
-### déclarations const
+### Déclarations const
 
 
 La plupart du temps, nous ne voulons pas qu'une variable change après sa création. Pour cela, nous utilisons `const`.
 
 
-`const` est l'abréviation de "constant". Une fois que vous avez assigné une valeur à une variable `const`, vous ne pouvez plus la modifier.
-
+`const` est l'abréviation de "constant". Une fois que vous avez assigné une valeur à une variable `const`, vous ne pouvez plus la modifier. Par exemple :
 
 ```javascript
 const pi = 3.14
@@ -378,7 +377,7 @@ Cela affiche :
 ```
 
 
-Mais si vous essayez de le faire :
+Mais si vous essayez de faire ceci :
 
 
 ```javascript
@@ -398,10 +397,10 @@ TypeError: Assignment to constant variable.
 ```
 
 
-C'est parce que `pi` a été déclaré en utilisant `const`, et vous ne pouvez pas changer sa valeur après cela. Vous communiquez à l'interpréteur JavaScript que vous ne voulez pas que cette variable change.
+Cela se produit parce que `pi` a été déclaré en utilisant `const`, et vous ne pouvez pas changer sa valeur après cela. Vous communiquez à l'interpréteur JavaScript que vous ne voulez pas que cette variable change.
 
 
-C'est utile car cela réduit les risques de modification par erreur. Lorsque les programmes deviennent très volumineux, avec des milliers de lignes de code, il est impossible de suivre tout ce qu'il se passe en même temps (c'est la principale raison pour laquelle nous utilisons des ordinateurs, pour exécuter des processus complexes que nous ne pouvons pas calculer avec notre cerveau), il devient donc utile d'avoir des restrictions comme celle-ci, qui rendent le programme plus déterministe.
+C'est utile car cela réduit les risques de modification accidentelle. Lorsque les programmes deviennent très volumineux, avec des milliers de lignes de code, il est impossible de suivre tout ce qu'il se passe en même temps (c'est la principale raison pour laquelle nous utilisons des ordinateurs, pour exécuter des processus complexes que nous ne pouvons pas calculer avec notre cerveau), il devient donc utile d'avoir des restrictions comme celle-ci, qui rendent le programme plus déterministe.
 
 
 Il est considéré comme bonne pratique de toujours déclarer nos variables comme `const`, à moins que nous ne soyons sûrs de vouloir les modifier plus tard.
@@ -413,7 +412,7 @@ Il est considéré comme bonne pratique de toujours déclarer nos variables comm
 Parfois, nous voulons écrire des notes dans notre code qui ne sont pas exécutées. C'est ce qu'on appelle des commentaires.
 
 
-Les commentaires sont ignorés par le programme lorsqu'il s'exécute, mais ils sont utiles pour expliquer des choses à nous-mêmes ou à d'autres personnes.
+Les commentaires sont ignorés par le programme lorsqu'il s'exécute, mais ils sont utiles pour expliquer des éléments à nous-mêmes ou à d'autres personnes.
 
 
 Pour écrire un commentaire d'une seule ligne, utilisez `//`
@@ -437,7 +436,7 @@ Cela affichera toujours :
 Les commentaires sont simplement là pour que les humains puissent les lire.
 
 
-Vous pouvez également écrire des commentaires sur plusieurs lignes en utilisant `/*` et `*/`
+Vous pouvez également écrire des commentaires sur plusieurs lignes en utilisant `/*` et `*/` :
 
 
 ```javascript
@@ -450,7 +449,7 @@ console.log(y)
 ```
 
 
-Ceci affichera
+Ceci affichera :
 
 
 ```
@@ -484,7 +483,7 @@ Le premier type que nous allons introduire est `number`.
 Les nombres en JavaScript peuvent être des entiers (comme `5`) ou des décimaux (comme `3.14`).
 
 
-Ils permettent de faire de l'arithmétique : addition, soustraction, multiplication et division.
+Ils permettent d'effectuer des opérations arithmétiques : addition, soustraction, multiplication et division.
 
 
 Voici un exemple basique :
@@ -551,7 +550,7 @@ Cela afficherait :
 ```
 
 
-Parce qu'en mathématiques classiques, la multiplication se fait avant l'addition.
+En effet, en mathématiques classiques, la multiplication se fait avant l'addition.
 
 
 ### Chaînes de caractères et interpolation
@@ -601,7 +600,7 @@ hello Bob
 ```
 
 
-Mais il existe une façon plus agréable de combiner des chaînes de caractères appelée **interpolation de chaînes**. Vous utilisez des accent graves pour déclarer la chaîne `` `...` `` et vous écrivez des variables en utilisant `${...}` à l'intérieur de la chaîne :
+Mais il existe une façon plus agréable de combiner des chaînes de caractères appelée **interpolation de chaînes**. Vous utilisez des accents graves (*backticks*) pour déclarer la chaîne `` `...` `` et vous insérez des variables en utilisant `${...}` à l'intérieur de la chaîne :
 
 
 ```javascript
@@ -647,7 +646,7 @@ L'interpolation est très courante dans le JavaScript moderne.
 Le troisième type que nous allons introduire est le type `boolean`. Il est nommé d'après le mathématicien George Boole, qui a inventé la logique booléenne.
 
 
-Les booléens sont simples : seulement deux valeurs possibles, `vrai` et `faux`.
+Les booléens sont simples : ils n'ont que deux valeurs possibles, `true` (vrai) et `false` (faux).
 
 
 Vous pouvez les stocker dans des variables :
@@ -675,9 +674,9 @@ Vous pouvez combiner des booléens à l'aide d'opérateurs logiques :
 
 
 
-- `&&` signifie "et", et il retournera `vrai` seulement si **les deux** valeurs sont `vrai`, sinon il retournera `faux`
-- `||` signifie "ou", et il retournera `vrai` si **au moins une** des valeurs est `vrai`, sinon (si elles sont toutes les deux fausses) il retournera `faux`
-- `!` signifie "not", il est appliqué devant un booléen, et il l'inverse : si le booléen est `true`, il retournera `false`, et vice versa.
+- `&&` signifie "et", et il retournera `true` seulement si **les deux** valeurs sont vraies, sinon il retournera `false`
+- `||` signifie "ou", et il retournera `true` si **au moins une** des valeurs est vraie, sinon (si elles sont toutes les deux fausses) il retournera `false`
+- `!` signifie "non", il est appliqué devant un booléen, et il l'inverse : si le booléen est `true`, il retournera `false`, et vice versa.
 
 
 ![](assets/en/003.webp)
@@ -715,10 +714,10 @@ console.log(theyAreDifferent)  // true
 ```
 
 
-Javascript dispose également de `>=` pour signifier "plus grand ou égal" et de `<=` pour signifier "plus petit ou égal".
+Javascript dispose également de `>=` pour signifier "supérieur ou égal" et de `<=` pour signifier "inférieur ou égal".
 
 
-Les booléens, les opérateurs de comparaison et les opérateurs logiques sont souvent combinés dans les programmes pour déclarer des conditions complexes, par exemple pour s'assurer que "le courrier électronique est arrivé ET qu'il contient l'image dont j'ai besoin OU que la longueur du courrier électronique est supérieure à 10000 caractères". Vous verrez plus loin qu'il s'agit d'éléments essentiels pour construire la logique du programme.
+Les booléens, les opérateurs de comparaison et les opérateurs logiques sont souvent combinés dans les programmes pour déclarer des conditions complexes, par exemple pour s'assurer que "l'email est arrivé ET qu'il contient l'image dont j'ai besoin OU que sa longueur est supérieure à 10000 caractères". Vous verrez plus loin qu'il s'agit d'éléments essentiels pour construire la logique d'un programme.
 
 
 ## Tableaux, null, undefined
